@@ -140,9 +140,7 @@ window.onload = function () {
 
     });
     $("backspace").addEventListener("click", function () {
-        preventDefault();
         backspace();
-
     });
     $("left").addEventListener("click", function () {
 
